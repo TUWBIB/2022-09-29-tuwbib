@@ -271,6 +271,42 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<p id="furtherInfo">
+  <strong>Further information</strong>:
+	
+Participation fee: 195 EUR. We will send you the payment details after registration. 
+
+</p>
+
+
+<p id="contact">
+  <strong>Registration/Contact</strong>: Please register via email until 23-09-2022: <a href="mailto:doron.goldfarb@tuwien.ac.at">doron.goldfarb@tuwien.ac.at</a>. Maximum number of participants: 15.
+  
+</p>
+
+
+{% comment %}
+  ORGANIZATION
+
+  This block displays home institutions of instructors and helpers and acknowledges funding.
+{% endcomment %}
+
+<p id="organization">
+  <strong>Organization:</strong>
+  	The workshop is organized by TU Wien Bibliothek, and instructors and helpers from TU Wien Bibliothek and Universität Wien.
+</p>
+
+
+<hr/>
+<p>
+<a href="https://www.tuwien.at/bibliothek"> 
+   <img src="https://github.com/TUWBIB/2022-09-29-tuwbib/raw/gh-pages/fig/TU_Wien_Bibliothek_RGB.png" alt="TU Wien Bibliothek" height="100"/>
+ </a><br/>
+
+  
+ </p>
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
